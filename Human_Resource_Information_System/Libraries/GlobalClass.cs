@@ -17,7 +17,36 @@ namespace Human_Resource_Information_System
         private static string l_licensedkey = null;
         private static string l_user = null;
         private static string l_userfullname = null;
+        private static string l_grpid = null;
+        private static string l_grpdesc = null;
         private static string l_branch = null;
+        private static string l_branch_name = null;
+        private static string l_bid = null;
+        private static string l_bname = null;
+        private static string l_cityid = null;
+        private static string l_ctname = null;
+        private static string l_provid = null;
+        private static string l_provname = null;
+        private static string l_cntry_code = null;
+        private static string l_cntry_desc = null;
+        private static string l_rep_code = null;
+        private static string l_rep_name = null;
+
+        private static Boolean l_override = false;
+        private static Boolean l_approve_po = false;
+        private static Boolean l_finalized_jrnl = false;
+        private static Boolean l_view_stkadj = false;
+
+        private static Boolean l_is_acctg = false;
+        private static Boolean l_is_crm = false;
+        private static Boolean l_is_sales = false;
+        private static Boolean l_is_inventory = false;
+        private static Boolean l_is_production = false;
+        private static Boolean l_is_loans = false;
+        private static Boolean l_is_property = false;
+        private static Boolean l_is_hr = false;
+        private static Boolean l_is_playhouse = false;
+
         private static string l_schema = null;
         private static DataTable l_gdt = null;
         private static DataRow l_gdr = null;
@@ -29,6 +58,7 @@ namespace Human_Resource_Information_System
         private static String l_ipaddress = "";
         private static String l_dbcompany = "";
         private static String l_transfbranch = "";
+        private static String l_currency = "₱";
         
         public static Boolean DontSendToMain
         {
@@ -89,16 +119,171 @@ namespace Human_Resource_Information_System
             set { l_userfullname = value; }
         }
 
+        public static string grp_id
+        {
+            get { return l_grpid; }
+            set { l_grpid = value; }
+        }
+        //
+        public static string grpdesc
+        {
+            get { return l_grpdesc; }
+            set { l_grpdesc = value; }
+        }
+
         public static string branch
         {
             get { return l_branch; }
             set { l_branch = value; }
         }
 
+        public static string branch_name
+        {
+            get { return l_branch_name; }
+            set { l_branch_name = value; }
+        }
+
+        public static string bid
+        {
+            get { return l_bid; }
+            set { l_bid = value; }
+        }
+
+        public static string bname
+        {
+            get { return l_bname; }
+            set { l_bname = value; }
+        }
+
+        public static string cityid
+        {
+            get { return l_cityid; }
+            set { l_cityid = value; }
+        }
+
+        public static string ctname
+        {
+            get { return l_ctname; }
+            set { l_ctname = value; }
+        }
+
+        /******/
+        public static string provid
+        {
+            get { return l_provid; }
+            set { l_provid = value; }
+        }
+        public static string provname
+        {
+            get { return l_provname; }
+            set { l_provname = value; }
+        }
+
+        /******/
+        public static string cntry_code
+        {
+            get { return l_cntry_code; }
+            set { l_cntry_code = value; }
+        }
+        public static string cntry_desc
+        {
+            get { return l_cntry_desc; }
+            set { l_cntry_desc = value; }
+        }
+
+        /******/
+        public static string rep_code
+        {
+            get { return l_rep_code; }
+            set { l_rep_code = value; }
+        }
+        /******/
+        public static string rep_name
+        {
+            get { return l_rep_name; }
+            set { l_rep_name = value; }
+        }
+        /******/
+
         public static string schema
         {
             get { return l_schema; }
             set { l_schema = value; }
+        }
+
+        public static Boolean right_override
+        {
+            get { return l_override; }
+            set { l_override = value; }
+        }
+        public static Boolean right_approve_po
+        {
+            get { return l_approve_po; }
+            set { l_approve_po = value; }
+        }
+        public static Boolean right_finalized_jrnl
+        {
+            get { return l_finalized_jrnl; }
+            set { l_finalized_jrnl = value; }
+        }
+        public static Boolean right_view_stkadj
+        {
+            get { return l_view_stkadj; }
+            set { l_view_stkadj = value; }
+        }
+
+        public static Boolean is_acctg
+        {
+            get { return l_is_acctg; }
+            set { l_is_acctg = value; }
+        }
+
+        public static Boolean is_crm
+        {
+            get { return l_is_crm; }
+            set { l_is_crm = value; }
+        }
+
+        public static Boolean is_sales
+        {
+            get { return l_is_sales; }
+            set { l_is_sales = value; }
+        } //
+
+        public static Boolean is_playhouse
+        {
+            get { return l_is_playhouse; }
+            set { l_is_playhouse = value; }
+        }
+
+        public static Boolean is_production
+        {
+            get { return l_is_production; }
+            set { l_is_production = value; }
+        }
+
+        public static Boolean is_inventory
+        {
+            get { return l_is_inventory; }
+            set { l_is_inventory = value; }
+        }
+
+        public static Boolean is_loans
+        {
+            get { return l_is_loans; }
+            set { l_is_loans = value; }
+        }
+
+        public static Boolean is_property
+        {
+            get { return l_is_property; }
+            set { l_is_property = value; }
+        }
+
+        public static Boolean is_hr
+        {
+            get { return l_is_hr; }
+            set { l_is_hr = value; }
         }
 
         public static DataTable gdt

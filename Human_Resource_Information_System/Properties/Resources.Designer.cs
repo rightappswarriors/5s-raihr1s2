@@ -83,6 +83,16 @@ namespace Human_Resource_Information_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap application_key {
+            get {
+                object obj = ResourceManager.GetObject("application_key", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Apps_preferences_desktop_notification_icon___Copy {
             get {
                 object obj = ResourceManager.GetObject("Apps-preferences-desktop-notification-icon - Copy", resourceCulture);
@@ -96,6 +106,16 @@ namespace Human_Resource_Information_System.Properties {
         internal static System.Drawing.Bitmap beta {
             get {
                 object obj = ResourceManager.GetObject("beta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BG_AppsBlueTech_20250205A {
+            get {
+                object obj = ResourceManager.GetObject("BG_AppsBlueTech_20250205A", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -363,9 +383,89 @@ namespace Human_Resource_Information_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo_only_100x88 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo_only_100x88", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo_only_100x881 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo_only_100x881", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo_only_32_28 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo_only_32_28", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo2023___500_x__126 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo2023___500_x__126", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo2023_200x750px {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo2023_200x750px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap RA_Logo2023_200x750px1 {
             get {
                 object obj = ResourceManager.GetObject("RA-Logo2023-200x750px1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo2023_200x750px2 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo2023_200x750px2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap RA_Logo2023_vertical_300x300 {
+            get {
+                object obj = ResourceManager.GetObject("RA_Logo2023_vertical_300x300", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap rai_chat_25x28 {
+            get {
+                object obj = ResourceManager.GetObject("rai_chat_25x28", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -436,6 +536,16 @@ namespace Human_Resource_Information_System.Properties {
         internal static System.Drawing.Bitmap ServexLogo {
             get {
                 object obj = ResourceManager.GetObject("ServexLogo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap settings_transparent_20px {
+            get {
+                object obj = ResourceManager.GetObject("settings_transparent_20px", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

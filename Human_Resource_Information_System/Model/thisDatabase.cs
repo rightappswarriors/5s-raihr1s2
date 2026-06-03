@@ -117,6 +117,27 @@ namespace Human_Resource_Information_System
             }
         }
 
+        public Boolean is_branch_online(String branch)
+        {
+            Boolean flag = false;
+
+            try
+            {
+                DataTable dt = this.QueryOnTableWithParams("m99", "isonline", " branch='" + branch + "'", "");
+
+                for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    if (dt.Rows[i]["isonline"].ToString() == "Y")
+                    {
+                        flag = true;
+                    }
+                }
+            }
+            catch (Exception) { }
+
+            return flag;
+        }
+
         public void connectbiometric() {
            /*
             if (!SDK.GetConnectState())
@@ -190,6 +211,25 @@ namespace Human_Resource_Information_System
 
             return null;
         }
+
+        public DataTable validate_login_return_dt(String user, String pass)
+        {
+            String sql = @"SELECT x08.*, x07.grp_desc, branch.name AS branch_name, 
+                            barangay.bid, barangay.bname, city.cityid, city.ctname, province.provid, province.provname, province.rgnid, country.cntry_code, country.cntry_desc,
+                            repmst.rep_name
+                            FROM " + schema + @".x08                              
+                            LEFT JOIN " + schema + @".x07 ON x07.grp_id = x08.grp_id
+                            LEFT JOIN " + schema + @".branch ON x08.branch=branch.code  
+                            LEFT JOIN " + schema + @".barangay ON barangay.bid=branch.brgy::int8  
+                            LEFT JOIN " + schema + @".city ON city.cityid = branch.city::int8  
+                            LEFT JOIN " + schema + @".province ON province.provid = branch.province::int8   
+                            LEFT JOIN " + schema + @".country ON country.cntry_code=branch.country  
+                            LEFT JOIN " + schema + @".repmst ON repmst.rep_code=x08.rep_code  
+
+                            WHERE uid='" + user.ToUpper() + "' AND x08.pwd='" + pass + "' AND x08.active = true";
+            return this.QueryBySQLCode(sql);
+        }
+
 
         public String getFullName()
         {
@@ -599,6 +639,31 @@ namespace Human_Resource_Information_System
             }
         }
 
+        public String get_m99_systemtype(String branch = "")
+        {
+            String val = "";
+
+            if (String.IsNullOrEmpty(branch))
+            {
+                branch = GlobalClass.branch;
+            }
+
+            DataTable dt = this.QueryOnTableWithParams("m99", "systemtype", " branch='" + branch + "'", "");
+
+            if (dt == null) return "";
+
+            try
+            {
+                for (Int32 i = 0; i < dt.Rows.Count; i++)
+                {
+                    val = dt.Rows[i]["systemtype"].ToString();
+                }
+            }
+            catch { }
+
+            return val;
+        }
+
         public String get_m99comp_name(String branch = "")
         {
             String val = "";
@@ -758,6 +823,24 @@ namespace Human_Resource_Information_System
             catch (Exception) { }
 
             return system_loc;
+        }
+
+        public String get_branchname(String branch_code)
+        {
+            String val = "";
+
+            DataTable dt = this.QueryOnTableWithParams("branch", "name", "code='" + branch_code + "'", "");
+            try
+            {
+                for (Int32 i = 0; i < dt.Rows.Count; i++)
+                {
+                    val = dt.Rows[i]["name"].ToString();
+                }
+            }
+            catch (Exception)
+            { }
+
+            return val;
         }
 
         //get pk value that used for the table. input: m99col = column of m99

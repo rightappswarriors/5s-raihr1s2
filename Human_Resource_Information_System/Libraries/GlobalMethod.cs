@@ -38,6 +38,18 @@ namespace Human_Resource_Information_System
             return false;
         }
 
+        public Boolean toBooleanFormat(String str)
+        {
+            Boolean val = false;
+            try
+            {
+                val = Convert.ToBoolean(str);
+            }
+            catch { }
+
+            return val;
+        }
+
         public String toAccountingFormat(Double amt)
         {
             try
