@@ -1,0 +1,94 @@
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Human Resource Information System.exe.config
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Human Resource Information System.exe.manifest
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Human Resource Information System.application
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Human Resource Information System.exe
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Human Resource Information System.pdb
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.Shared.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.Web.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\DevComponents.DotNetBar2.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Interop.zkemkeeper.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\itextsharp.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Mono.Security.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\Npgsql.dll
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\DevComponents.DotNetBar2.xml
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\bin\Debug\itextsharp.xml
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.csproj.AssemblyReference.cache
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.csproj.ResolveComReference.cache
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.activation_form.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_business_units.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_contribution_remittance.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_financial_param.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_jobtitle.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_leave_credits_byempcs.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_SSS.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.RPT_RES_entry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.RPT_RES_entry2.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.journalize.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.ViewController.MD.m_Emp_ShifSchedule.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_overtimestart.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.ViewController.Payroll.p_13monthpay.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_AddOtherDeductionsEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_AddOtherEarningsEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_OtherDeductionEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_OtherEarningEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_Payslips.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_PayslipsEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_ShiftSchedule.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.ViewController.MD.m_SSS.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_GeneratePayroll.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_PayrollRegister.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_PayrollRegisterEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.p_ViewGeneratedPayroll.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.l_LoanEntry.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.l_LoanLedgerCard.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.Main.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.Login.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.Report.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.hdmf_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_loan_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_other_deductions.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_other_earnings.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.PaySlips.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_payroll_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_philhealth_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_sss_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_dtr_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_leaves_summary.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.rpt_print_dtr.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_addLogs.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_addSched.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_emp_dtr.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_generatedtr.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_manpowerschedule.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_BatchTimeLog.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_Leaves.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_UploadLogsFile.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Department.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_employee.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_HDMF.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Holidays.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Leaves.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Loan.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_OtherDeductions.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_OtherEarnings.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_payrollperiod.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_PhilHealth.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Position.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_Section.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.m_WTax.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.t_LogBox.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.Properties.Resources.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.z_Notification.resources
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.csproj.GenerateResource.cache
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Resource_Information_System.csproj.CoreCompileInputs.cache
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human Resource Information System.exe.manifest
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human Resource Information System.application
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human_Re.10700FD6.Up2Date
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human Resource Information System.exe
+E:\RSS Projects\Codes\rss-sacred-hris-master\Human_Resource_Information_System\obj\Debug\Human Resource Information System.pdb
